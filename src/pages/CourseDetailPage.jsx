@@ -5,7 +5,7 @@ import {
   animationDelays,
   courseDetailCustomStyles,
 } from "../assets/dummyStyles";
-import coursesData from "../assets/dummydata";
+import coursesData from "../assets/dummyData";
 import {
   ArrowLeft,
   ArrowRight,
