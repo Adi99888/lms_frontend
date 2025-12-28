@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { homeCoursesStyles } from "../assets/dummyStyles";
-import { coursesData } from "../assets/dummyHData";
+import { coursesData } from "../assets/dummyHdata";
 import { useNavigate } from "react-router-dom";
 import { ArrowRight, Star, User } from "lucide-react";
 import { Slide, toast, ToastContainer } from "react-toastify";
