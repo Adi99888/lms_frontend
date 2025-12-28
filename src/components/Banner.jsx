@@ -88,7 +88,7 @@ const Banner = () => {
 
           <div className={bannerStyles.imageContainer}>
             <img
-              src={"../assets/BannerImageCopy.png"}
+              src={bannerImg}
               alt="banner-image"
               className={bannerStyles.image}
             />
