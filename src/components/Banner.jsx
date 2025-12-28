@@ -3,7 +3,7 @@ import { bannerStyles, customStyles } from "../assets/dummyStyles";
 import { features, floatingIcons } from "../assets/dummyBanner";
 import { CircleCheckBig, Sparkle, X } from "lucide-react";
 
-import bannerImg from "../assets/BannerImage.png";
+import bannerImg from "../assets/BannerImageCopy.png";
 
 
 import video from "../assets/BannerVideo.mp4";
