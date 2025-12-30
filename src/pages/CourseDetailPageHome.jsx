@@ -17,7 +17,7 @@ import {
   Sparkles,
   Tag,
 } from "lucide-react";
-import coursesData from "../assets/dummyHdata";
+import coursesData from "../assets/dummyData";
 import {
   courseDetailStylesH,
   toastStyles,
